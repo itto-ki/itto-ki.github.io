@@ -10,5 +10,24 @@
 	<atom:link href="http://itto-ki.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Link</title>
+      <link>http://itto-ki.github.io/link/</link>
+      <pubDate>Wed, 10 Jun 2020 22:18:28 +0900</pubDate>
+      
+      <guid>http://itto-ki.github.io/link/</guid>
+      <description> GitHub Twitter  </description>
+    </item>
+    
+    <item>
+      <title>Profile</title>
+      <link>http://itto-ki.github.io/profile/</link>
+      <pubDate>Wed, 10 Jun 2020 22:10:35 +0900</pubDate>
+      
+      <guid>http://itto-ki.github.io/profile/</guid>
+      <description>Ittoh Kimura  software engineer
+Languages  Rust Go C/C++ Python  </description>
+    </item>
+    
   </channel>
 </rss>
